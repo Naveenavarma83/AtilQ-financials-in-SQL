@@ -29,3 +29,21 @@ Net Sales                              = 25 $
 COGS                                   = - 20 $
 Gross margin                           = 5 $
 GM % on Net sales ( GM/NS )            = 20 %
+
+
+
+
+
+
+
+
+
+
+end
+
+
+
+
+
+
+
