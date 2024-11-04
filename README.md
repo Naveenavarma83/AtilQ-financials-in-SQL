@@ -20,14 +20,23 @@ AtliQ’s Distribution Model
 
                                   Distributor -- Neptune-----> small retailers in other countries
 P & L Statement (Example)
+
 Gross price for a Mouse                =  30 $
+
 Pre-invoice deduction                  = -2 $
+
 Net Invoice sales                      = 28 $
+
 Promotional offer + placement fee + performance rebate = Post Invoice Deductions
                                        = -3 $
+
+
 Net Sales                              = 25 $
+
 COGS                                   = - 20 $
+
 Gross margin                           = 5 $
+
 GM % on Net sales ( GM/NS )            = 20 %
 
 
