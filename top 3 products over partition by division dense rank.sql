@@ -1,4 +1,6 @@
-                 with cte1 as (select
+OBTAINING TOP 3 PRODUCTS IN TERMS OF THEIR TOTAL SOLD QUANTITY
+
+with cte1 as (select
                      p.division,
                      p.product,
                      sum(sold_quantity) as total_qty
