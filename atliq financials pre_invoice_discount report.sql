@@ -1,3 +1,5 @@
+A> To arrive at monthly sales given fiscal year for all the products
+
 SELECT * FROM gdb0041.fact_sales_monthly;
 
 select
@@ -10,7 +12,9 @@ and g.product_code=s.product_code
 where customer_code=90002002
 group by date;
 
-pre_invoice discount report
+B>  To arrive at pre_invoice discount for all the products in a given fiscal year 
+     The resultent table will have the columns 
+      DATE   PRODUCT_CODE   SOLD_QUANTITY   PRODUCT   VARIANT   GROSS_PRICE_PER_ITEM
 
 select 
 s.date,
